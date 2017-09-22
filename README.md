@@ -4,4 +4,4 @@
 STAMP project public documents and discussions.
 
 If the tool or technology you want to discuss is not on the STAMP github yet, you in the right place.
-Please create an issue to start ! :-)
+Please create an issue to start the discussion! :-)
