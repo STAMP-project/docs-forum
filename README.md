@@ -12,4 +12,4 @@ More general discussion about the project, technologies relative to the project,
 
 Please comment, react or create an issue to start a discussion! :-)
 
-And don't forget to watch this repository to be kept updated. ;-)
+Do you want to be kept informed on STAMP ? Watch this repository ! ;-)
