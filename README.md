@@ -3,5 +3,12 @@
 
 STAMP project public documents and discussions.
 
-If the tool or technology you want to discuss is not on the STAMP github yet, you in the right place.
-Please create an issue to start the discussion! :-)
+STAMP project contains several technical repositories, corresponding to tools you can use.
+We'd like to save the issues of those technical repository to manage the direct support on this tools (defects, change requests, etc).
+
+And so this repository is dedicated to...everything else ! :-)
+More general discussion about the project, technologies relative to the project, feedback, etc.
+
+Please comment, react or create an issue to start a discussion!
+
+You want to be kept updated? Watch this repository! ;-)
