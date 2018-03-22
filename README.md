@@ -12,7 +12,7 @@ STAMP-project contains several technical repositories, corresponding to tools yo
 can use. We use Issues of each repository to manage the
 development and the technical support on the corresponding tool (defects, improvement,
 change requests, etc).  
-And so *docs-forum* is dedicated to more general discussion about the project,
+And so **docs-forum** is dedicated to more general discussion about the project,
 technologies relative to the project, feedback, etc.
 
 
