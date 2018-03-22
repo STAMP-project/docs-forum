@@ -22,8 +22,8 @@ The main STAMP tools are presented in the following map:
 You can find all on our github:  
 * [DSpot](http://github.com/STAMP-project/dspot)
 * [Descartes](http://github.com/STAMP-project/pitest-descartes)
-* [Camp](http://github.com/STAMP-project/camp))
-* [EvoCrash](http://github.com/STAMP-project/EvoCrash))
+* [Camp](http://github.com/STAMP-project/camp)
+* [EvoCrash](http://github.com/STAMP-project/EvoCrash)
 
 
 #### More ####
