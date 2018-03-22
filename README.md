@@ -9,12 +9,11 @@ and we hope this introduction will help you to find what you are looking for. :-
 The entry point is [docs-forum](http://github.com/STAMP-project/docs-forum) where you can find
 STAMP public deliverables, general documentation and general discussions.  
 STAMP-project contains several technical repositories, corresponding to tools you
-can use. We'd like to use the issues of each technical repository to manage the
-development and the technical support on each tool (defects, improvement,
+can use. We use Issues of each repository to manage the
+development and the technical support on the corresponding tool (defects, improvement,
 change requests, etc).  
-And so this repository is dedicated to...everything else ! :-)  
-More general discussion about the project, technologies relative to the project,
-feedback, etc.
+And so *docs-forum* is dedicated to more general discussion about the project,
+technologies relative to the project, feedback, etc.
 
 
 #### STAMP tools ####
