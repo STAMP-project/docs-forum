@@ -1,13 +1,32 @@
 ![DBug - STAMP Product - European Commission - H2020](docs/images/logo_readme_md.png)
 
-STAMP project public documents and discussions.
+#### STAMP introduction ####
+STAMP project contains a lot of repositories for tools, documentation and experiments,
+and we hope this introduction will help you to find what you are looking for. :-)
 
-STAMP project contains several technical repositories, corresponding to tools you can use. We'd like to use the issues of those technical repositories to manage the development and the technical suport on this tools (defects, improvement, change requests, etc).
 
-And so this repository is dedicated to...everything else ! :-)
+##### Documentation and general discussions #####
+The entry point is [docs-forum](http://github.com/STAMP-project/docs-forum) where you can find
+STAMP public deliverables, general documentation and general discussions.  
+STAMP-project contains several technical repositories, corresponding to tools you
+can use. We'd like to use the issues of each technical repository to manage the
+development and the technical support on each tool (defects, improvement,
+change requests, etc).  
+And so this repository is dedicated to...everything else ! :-)  
+More general discussion about the project, technologies relative to the project,
+feedback, etc.
 
-More general discussion about the project, technologies relative to the project, feedback, etc. You can also find the public deliverables in the "docs" directory.
 
-Please comment, react or create an issue to start a discussion! :-)
+##### STAMP tools #####
+The main STAMP tools are presented in the following map:  
+![STAMP tools in DevOps](docs/images/devops_stamp_tools.png)  
+You can find all on our github:  
+* [DSpot](http://github.com/STAMP-project/dspot)
+* [Descartes](http://github.com/STAMP-project/pitest-descartes)
+* [Camp](http://github.com/STAMP-project/camp))
+* [EvoCrash](http://github.com/STAMP-project/EvoCrash))
 
-Do you want to be kept informed on STAMP ? Watch this repository ! ;-)
+
+##### More #####
+Do you want to be kept informed on STAMP tools ? Watch our repositories ! ;-)  
+You can also consult our web-site: [www.stamp-project.eu](http://www.stamp-project.eu)
