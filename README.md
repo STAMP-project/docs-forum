@@ -1,11 +1,11 @@
 ![DBug - STAMP Product - European Commission - H2020](docs/images/logo_readme_md.png)
 
-#### STAMP introduction ####
+## STAMP introduction ##
 STAMP project contains a lot of repositories for tools, documentation and experiments,
 and we hope this introduction will help you to find what you are looking for. :-)
 
 
-##### Documentation and general discussions #####
+#### Documentation and general discussions ####
 The entry point is [docs-forum](http://github.com/STAMP-project/docs-forum) where you can find
 STAMP public deliverables, general documentation and general discussions.  
 STAMP-project contains several technical repositories, corresponding to tools you
@@ -17,7 +17,7 @@ More general discussion about the project, technologies relative to the project,
 feedback, etc.
 
 
-##### STAMP tools #####
+#### STAMP tools ####
 The main STAMP tools are presented in the following map:  
 ![STAMP tools in DevOps](docs/images/devops_stamp_tools.png)  
 You can find all on our github:  
@@ -27,6 +27,6 @@ You can find all on our github:
 * [EvoCrash](http://github.com/STAMP-project/EvoCrash))
 
 
-##### More #####
+#### More ####
 Do you want to be kept informed on STAMP tools ? Watch our repositories ! ;-)  
 You can also consult our web-site: [www.stamp-project.eu](http://www.stamp-project.eu)
