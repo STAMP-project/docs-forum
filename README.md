@@ -1,6 +1,6 @@
 ![DBug - STAMP Product - European Commission - H2020](docs/images/logo_readme_md.png)
 ## STAMP introduction ##
-[Documentation](#documentation-and-general-discussions) | [Tools](#stamp-tools) | [More](#more)
+##### [Documentation](#documentation-and-general-discussions) | [Tools](#stamp-tools) | [More](#more) #####
 STAMP-project contains a lot of repositories for tools, documentation and experiments,
 and we hope this introduction will help you to find what you are looking for. :-)
 
