@@ -27,5 +27,5 @@ You can find all on our github:
 
 #### More ####
 Do you want to be kept informed on STAMP tools ? Watch our repositories ! ;-)  
-You can also consult our web-site: [www.stamp-project.eu](http://www.stamp-project.eu)
+You can also consult our web-site: [www.stamp-project.eu](http://www.stamp-project.eu)  
 And if you need help or information, please ask us ! :-)
