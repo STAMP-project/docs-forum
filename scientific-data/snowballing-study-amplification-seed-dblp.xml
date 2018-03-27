@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<query id="10546">test* amplif*</query>
+<status code="200">OK</status>
+<time unit="msecs">3.80</time>
+<completions total="5" computed="5" sent="0">
+</completions>
+<hits total="70" computed="70" sent="70" first="0">
+<hit score="2" id="198953">
+<info><authors><author>Josip Mikulic</author><author>Peter Sarson</author><author>Gregor Schatzberger</author><author>Adrijan Baric</author></authors><title>Fault-based test methodology for analog amplifier circuits.</title><venue>EWDTS</venue><pages>1-7</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/ewdts/MikulicSSB17</key><doi>10.1109/EWDTS.2017.8110036</doi><ee>https://doi.org/10.1109/EWDTS.2017.8110036</ee><url>http://dblp.org/rec/conf/ewdts/MikulicSSB17</url></info>
+<url>URL#198953</url>
+</hit>
+<hit score="2" id="255360">
+<info><authors><author>Ngwe Thawdar</author><author>Ulysses Lee</author><author>Weifeng Su</author><author>Dimitris A. Pados</author></authors><title>Differential amplify-and-forward cooperative relaying in a software-defined radio testbed with an aerial relay node.</title><venue>MILCOM</venue><pages>348-353</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/milcom/ThawdarLSP17</key><doi>10.1109/MILCOM.2017.8170822</doi><ee>https://doi.org/10.1109/MILCOM.2017.8170822</ee><url>http://dblp.org/rec/conf/milcom/ThawdarLSP17</url></info>
+<url>URL#255360</url>
+</hit>
+<hit score="2" id="259224">
+<info><authors><author>Dong Jin Shin</author><author>Pornpat Athamanolap</author><author>Liben Chen</author><author>Tza-Huei Wang</author></authors><title>A mobile phone-operated droplet magnetofluidic assay platform for nucleic acid amplification testing.</title><venue>NEMS</venue><pages>494-498</pages><year>2017</year><type>Conference and Workshop Papers</type><key>conf/nems/ShinACW17</key><doi>10.1109/NEMS.2017.8017071</doi><ee>https://doi.org/10.1109/NEMS.2017.8017071</ee><url>http://dblp.org/rec/conf/nems/ShinACW17</url></info>
+<url>URL#259224</url>
+</hit>
+<hit score="2" id="298658">
+<info><authors><author>Benjamin Danglot</author><author>Oscar Vera-Perez</author><author>Zhongxing Yu</author><author>Martin Monperrus</author><author>Benoit Baudry</author></authors><title>The Emerging Field of Test Amplification - A Survey.</title><venue>CoRR</venue><volume>abs/1705.10692</volume><year>2017</year><type>Informal Publications</type><key>journals/corr/DanglotVYMB17</key><ee>http://arxiv.org/abs/1705.10692</ee><url>http://dblp.org/rec/journals/corr/DanglotVYMB17</url></info>
+<url>URL#298658</url>
+</hit>
+<hit score="2" id="354370">
+<info><authors><author>Hari Chauhan</author><author>Marvin Onabajo</author><author>Vladimir Kvartenko</author><author>Robin Coxe</author><author>Theophane Weber</author></authors><title>An Optimization Platform for Digital Predistortion of Power Amplifiers.</title><venue>IEEE Design &amp; Test</venue><volume>33</volume><number>2</number><pages>49-58</pages><year>2016</year><type>Journal Articles</type><key>journals/dt/ChauhanOKCW16</key><doi>10.1109/MDAT.2015.2480702</doi><ee>https://doi.org/10.1109/MDAT.2015.2480702</ee><url>http://dblp.org/rec/journals/dt/ChauhanOKCW16</url></info>
+<url>URL#354370</url>
+</hit>
+<hit score="3" id="359146">
+<info><authors><author>Qian Lin</author><author>Qian-Fu Cheng</author><author>Junjie Gu</author><author>Yuanyuan Zhu</author><author>Chao Chen</author><author>Haipeng Fu</author></authors><title>Design and Temperature Reliability Testing for A 0.6-2.14GHz Broadband Power Amplifier.</title><venue>J. Electronic Testing</venue><volume>32</volume><number>2</number><pages>235-240</pages><year>2016</year><type>Journal Articles</type><key>journals/et/LinCGZCF16</key><doi>10.1007/S10836-016-5571-7</doi><ee>https://doi.org/10.1007/s10836-016-5571-7</ee><url>http://dblp.org/rec/journals/et/LinCGZCF16</url></info>
+<url>URL#359146</url>
+</hit>
+<hit score="2" id="359147">
+<info><authors><author>Qian Lin</author><author>Haipeng Fu</author><author>Feifei He</author><author>Qian-Fu Cheng</author></authors><title>Interconnect Reliability Analysis for Power Amplifier Based on Artificial Neural Networks.</title><venue>J. Electronic Testing</venue><volume>32</volume><number>4</number><pages>481-489</pages><year>2016</year><type>Journal Articles</type><key>journals/et/LinFHC16</key><doi>10.1007/S10836-016-5606-0</doi><ee>https://doi.org/10.1007/s10836-016-5606-0</ee><url>http://dblp.org/rec/journals/et/LinFHC16</url></info>
+<url>URL#359147</url>
+</hit>
+<hit score="2" id="459141">
+<info><authors><author>Stefan Dziembowski</author><author>Sebastian Faust</author><author>François-Xavier Standaert</author></authors><title>Private Circuits III - Hardware Trojan-Resilience via Testing Amplification.</title><venue>ACM Conference on Computer and Communications Security</venue><pages>142-153</pages><year>2016</year><type>Conference and Workshop Papers</type><key>conf/ccs/DziembowskiFS16</key><doi>10.1145/2976749.2978419</doi><ee>http://doi.acm.org/10.1145/2976749.2978419</ee><url>http://dblp.org/rec/conf/ccs/DziembowskiFS16</url></info>
+<url>URL#459141</url>
+</hit>
+<hit score="2" id="611053">
+<info><authors><author>Stefan Dziembowski</author><author>Sebastian Faust</author><author>François-Xavier Standaert</author></authors><title>Private Circuits III - Hardware Trojan-Resilience via Testing Amplification.</title><venue>IACR Cryptology ePrint Archive</venue><volume>2016</volume><pages>1004</pages><year>2016</year><type>Informal Publications</type><key>journals/iacr/DziembowskiFS16</key><ee>http://eprint.iacr.org/2016/1004</ee><url>http://dblp.org/rec/journals/iacr/DziembowskiFS16</url></info>
+<url>URL#611053</url>
+</hit>
+<hit score="2" id="616311">
+<info><authors><author>Elizabeth J. Kowalski</author></authors><title>Design and test of a 94 GHz overmoded traveling wave tube amplifier.</title><year>2015</year><type>Books and Theses</type><key>phd/ndltd/Kowalski15</key><ee>http://hdl.handle.net/1721.1/97805</ee><url>http://dblp.org/rec/phd/ndltd/Kowalski15</url></info>
+<url>URL#616311</url>
+</hit>
+<hit score="2" id="677748">
+<info><authors><author>Paolo Valerio Testa</author><author>Guido Belfiore</author><author>Robert Paulo</author><author>Corrado Carta</author><author>Frank Ellinger</author></authors><title>170 GHz SiGe-BiCMOS Loss-Compensated Distributed Amplifier.</title><venue>J. Solid-State Circuits</venue><volume>50</volume><number>10</number><pages>2228-2238</pages><year>2015</year><type>Journal Articles</type><key>journals/jssc/TestaBPCE15</key><doi>10.1109/JSSC.2015.2444878</doi><ee>https://doi.org/10.1109/JSSC.2015.2444878</ee><url>http://dblp.org/rec/journals/jssc/TestaBPCE15</url></info>
+<url>URL#677748</url>
+</hit>
+<hit score="2" id="822395">
+<info><authors><author>Isis D. Bender</author><author>Guilherme S. Cardoso</author><author>Arthur C. de Oliveira</author><author>Lucas C. Severo</author><author>Alessandro Girardi</author><author>Tiago R. Balen</author></authors><title>Testing fully differential amplifiers using common mode feedback circuit - A case study.</title><venue>LASCAS</venue><pages>1-4</pages><year>2015</year><type>Conference and Workshop Papers</type><key>conf/lascas/BenderCOSGB15</key><doi>10.1109/LASCAS.2015.7250488</doi><ee>https://doi.org/10.1109/LASCAS.2015.7250488</ee><url>http://dblp.org/rec/conf/lascas/BenderCOSGB15</url></info>
+<url>URL#822395</url>
+</hit>
+<hit score="2" id="871274">
+<info><authors><author>Benoit Baudry</author><author>Simon Allier</author><author>Marcelino Rodriguez-Cancio</author><author>Martin Monperrus</author></authors><title>DSpot - Test Amplification for Automatic Assessment of Computational Diversity.</title><venue>CoRR</venue><volume>abs/1503.05807</volume><year>2015</year><type>Informal Publications</type><key>journals/corr/BaudryARM15</key><ee>http://arxiv.org/abs/1503.05807</ee><url>http://dblp.org/rec/journals/corr/BaudryARM15</url></info>
+<url>URL#871274</url>
+</hit>
+<hit score="2" id="920812">
+<info><authors><author>Junpeng Feng</author><author>Marvin Onabajo</author></authors><title>Wide Dynamic Range CMOS Amplifier Design for RF Signal Power Detection via Electro-Thermal Coupling.</title><venue>J. Electronic Testing</venue><volume>30</volume><number>1</number><pages>101-109</pages><year>2014</year><type>Journal Articles</type><key>journals/et/FengO14</key><doi>10.1007/S10836-013-5427-3</doi><ee>https://doi.org/10.1007/s10836-013-5427-3</ee><url>http://dblp.org/rec/journals/et/FengO14</url></info>
+<url>URL#920812</url>
+</hit>
+<hit score="2" id="960947">
+<info><authors><author>Aleksandr S. Petrov</author><author>Konstantin I. Tapero</author><author>Viktor N. Ulimov</author></authors><title>Influence of temperature and dose rate on the degradation of BiCMOS operational amplifiers during total ionizing dose testing.</title><venue>Microelectronics Reliability</venue><volume>54</volume><number>9-10</number><pages>1745-1748</pages><year>2014</year><type>Journal Articles</type><key>journals/mr/PetrovTU14</key><doi>10.1016/J.MICROREL.2014.07.091</doi><ee>https://doi.org/10.1016/j.microrel.2014.07.091</ee><url>http://dblp.org/rec/journals/mr/PetrovTU14</url></info>
+<url>URL#960947</url>
+</hit>
+<hit score="2" id="990250">
+<info><authors><author>Pingyu Zhang</author><author>Sebastian G. Elbaum</author></authors><title>Amplifying Tests to Validate Exception Handling Code - An Extended Study in the Mobile Application Domain.</title><venue>ACM Trans. Softw. Eng. Methodol.</venue><volume>23</volume><number>4</number><pages>32:1-32:28</pages><year>2014</year><type>Journal Articles</type><key>journals/tosem/ZhangE14</key><doi>10.1145/2652483</doi><ee>http://doi.acm.org/10.1145/2652483</ee><url>http://dblp.org/rec/journals/tosem/ZhangE14</url></info>
+<url>URL#990250</url>
+</hit>
+<hit score="2" id="1013439">
+<info><authors><author>Smarjeet Sharma</author><author>Nicolas G. Constantin</author></authors><title>An algorithm for IMD computation in automated tests of RFIC power amplifiers.</title><venue>CCECE</venue><pages>1-6</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/ccece/SharmaC14</key><doi>10.1109/CCECE.2014.6900940</doi><ee>https://doi.org/10.1109/CCECE.2014.6900940</ee><url>http://dblp.org/rec/conf/ccece/SharmaC14</url></info>
+<url>URL#1013439</url>
+</hit>
+<hit score="2" id="1037969">
+<info><authors><author>David E. Simmons</author><author>David Halls</author><author>Justin P. Coon</author></authors><title>OFDM-based nonlinear fixed-gain amplify-and-forward relay systems - SER optimization and experimental testing.</title><venue>EuCNC</venue><pages>1-5</pages><year>2014</year><type>Conference and Workshop Papers</type><key>conf/eucnc/SimmonsHC14</key><doi>10.1109/EUCNC.2014.6882670</doi><ee>https://doi.org/10.1109/EuCNC.2014.6882670</ee><url>http://dblp.org/rec/conf/eucnc/SimmonsHC14</url></info>
+<url>URL#1037969</url>
+</hit>
+<hit score="3" id="1452932">
+<info><authors><author>Hsin-Wen Ting</author></authors><title>Digital-Compatible Testing Scheme for Operational Amplifier.</title><venue>J. Electronic Testing</venue><volume>28</volume><number>3</number><pages>267-277</pages><year>2012</year><type>Journal Articles</type><key>journals/et/Ting12</key><doi>10.1007/S10836-012-5290-7</doi><ee>https://doi.org/10.1007/s10836-012-5290-7</ee><url>http://dblp.org/rec/journals/et/Ting12</url></info>
+<url>URL#1452932</url>
+</hit>
+<hit score="2" id="1506885">
+<info><authors><author>Nicolas G. Constantin</author><author>Kai H. Kwok</author><author>Hongxiao Shao</author><author>Cristian Cismaru</author><author>Peter J. Zampardi</author></authors><title>Formulations and a Computer-Aided Test Method for the Estimation of IMD Levels in an Envelope Feedback RFIC Power Amplifier.</title><venue>IEEE Trans. on CAD of Integrated Circuits and Systems</venue><volume>31</volume><number>12</number><pages>1881-1893</pages><year>2012</year><type>Journal Articles</type><key>journals/tcad/ConstantinKSCZ12</key><doi>10.1109/TCAD.2012.2207954</doi><ee>https://doi.org/10.1109/TCAD.2012.2207954</ee><url>http://dblp.org/rec/journals/tcad/ConstantinKSCZ12</url></info>
+<url>URL#1506885</url>
+</hit>
+<hit score="2" id="1559341">
+<info><authors><author>Nathalie Deltimple</author><author>José Luis González 0001</author><author>Josep Altet</author><author>Yohann Luque</author><author>Eric Kerherve</author></authors><title>Design of a fully integrated CMOS self-testable RF power amplifier using a thermal sensor.</title><venue>ESSCIRC</venue><pages>398-401</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/esscirc/DeltimpleGALK12</key><doi>10.1109/ESSCIRC.2012.6341278</doi><ee>https://doi.org/10.1109/ESSCIRC.2012.6341278</ee><url>http://dblp.org/rec/conf/esscirc/DeltimpleGALK12</url></info>
+<url>URL#1559341</url>
+</hit>
+<hit score="2" id="1591512">
+<info><authors><author>Pingyu Zhang</author><author>Sebastian G. Elbaum</author></authors><title>Amplifying tests to validate exception handling code.</title><venue>ICSE</venue><pages>595-605</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/icse/ZhangE12</key><doi>10.1109/ICSE.2012.6227157</doi><ee>https://doi.org/10.1109/ICSE.2012.6227157</ee><url>http://dblp.org/rec/conf/icse/ZhangE12</url></info>
+<url>URL#1591512</url>
+</hit>
+<hit score="3" id="1608902">
+<info><authors><author>Abhilash Goyal</author><author>Madhavan Swaminathan</author><author>Abhijit Chatterjee</author><author>Duane C. Howard</author><author>John D. Cressler</author></authors><title>A self-testable SiGe LNA and Built-in-Self-Test methodology for multiple performance specifications of RF amplifiers.</title><venue>ISQED</venue><pages>7-12</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/isqed/GoyalSCHC12</key><doi>10.1109/ISQED.2012.6187467</doi><ee>https://doi.org/10.1109/ISQED.2012.6187467</ee><url>http://dblp.org/rec/conf/isqed/GoyalSCHC12</url></info>
+<url>URL#1608902</url>
+</hit>
+<hit score="2" id="1628348">
+<info><authors><author>Alan Leung</author><author>Manish Gupta</author><author>Yuvraj Agarwal</author><author>Rajesh Gupta 0001</author><author>Ranjit Jhala</author><author>Sorin Lerner</author></authors><title>Verifying GPU kernels by test amplification.</title><venue>PLDI</venue><pages>383-394</pages><year>2012</year><type>Conference and Workshop Papers</type><key>conf/pldi/LeungGAGJL12</key><doi>10.1145/2254064.2254110</doi><ee>http://doi.acm.org/10.1145/2254064.2254110</ee><url>http://dblp.org/rec/conf/pldi/LeungGAGJL12</url></info>
+<url>URL#1628348</url>
+</hit>
+<hit score="2" id="1795190">
+<info><authors><author>Damian Grzechca</author></authors><title>Simulated annealing with artificial neural network fitness function for ECG amplifier testing.</title><venue>ECCTD</venue><pages>49-52</pages><year>2011</year><type>Conference and Workshop Papers</type><key>conf/ecctd/Grzechca11</key><doi>10.1109/ECCTD.2011.6043396</doi><ee>https://doi.org/10.1109/ECCTD.2011.6043396</ee><url>http://dblp.org/rec/conf/ecctd/Grzechca11</url></info>
+<url>URL#1795190</url>
+</hit>
+<hit score="3" id="1937249">
+<info><authors><author>Abhilash Goyal</author><author>Madhavan Swaminathan</author><author>Abhijit Chatterjee</author></authors><title>Low-Cost Specification Based Testing of RF Amplifier Circuits using Oscillation Principles.</title><venue>J. Electronic Testing</venue><volume>26</volume><number>1</number><pages>13-24</pages><year>2010</year><type>Journal Articles</type><key>journals/et/GoyalSC10</key><doi>10.1007/S10836-009-5126-2</doi><ee>https://doi.org/10.1007/s10836-009-5126-2</ee><url>http://dblp.org/rec/journals/et/GoyalSC10</url></info>
+<url>URL#1937249</url>
+</hit>
+<hit score="2" id="1984518">
+<info><authors><author>Lambros Dermentzoglou</author><author>Angela Arapoyanni</author><author>Yiorgos Tsiatouhas</author></authors><title>A Built-In-Test Circuit for RF Differential Low Noise Amplifiers.</title><venue>IEEE Trans. on Circuits and Systems</venue><volume>57-I</volume><number>7</number><pages>1549-1558</pages><year>2010</year><type>Journal Articles</type><key>journals/tcas/DermentzoglouAT10</key><doi>10.1109/TCSI.2009.2035417</doi><ee>https://doi.org/10.1109/TCSI.2009.2035417</ee><url>http://dblp.org/rec/journals/tcas/DermentzoglouAT10</url></info>
+<url>URL#1984518</url>
+</hit>
+<hit score="2" id="1994056">
+<info><authors><author>Michael R. Souryal</author></authors><title>Non-Coherent Amplify-and-Forward Generalized Likelihood Ratio Test Receiver.</title><venue>IEEE Trans. Wireless Communications</venue><volume>9</volume><number>7</number><pages>2320-2327</pages><year>2010</year><type>Journal Articles</type><key>journals/twc/Souryal10</key><doi>10.1109/TWC.2010.07.091261</doi><ee>https://doi.org/10.1109/TWC.2010.07.091261</ee><url>http://dblp.org/rec/journals/twc/Souryal10</url></info>
+<url>URL#1994056</url>
+</hit>
+<hit score="2" id="2217993">
+<info><authors><author>An-Sheng Chao</author><author>Soon-Jyh Chang</author></authors><title>A Jitter Characterizing BIST with Pulse-Amplifying Technique.</title><venue>Asian Test Symposium</venue><pages>379-384</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/ats/ChaoC09</key><doi>10.1109/ATS.2009.23</doi><ee>https://doi.org/10.1109/ATS.2009.23</ee><url>http://dblp.org/rec/conf/ats/ChaoC09</url></info>
+<url>URL#2217993</url>
+</hit>
+<hit score="3" id="2218000">
+<info><authors><author>Po-Yuan Chen</author><author>Cheng-Wen Wu</author><author>Ding-Ming Kwai</author></authors><title>On-Chip TSV Testing for 3D IC before Bonding Using Sense Amplification.</title><venue>Asian Test Symposium</venue><pages>450-455</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/ats/ChenWK09</key><doi>10.1109/ATS.2009.42</doi><ee>https://doi.org/10.1109/ATS.2009.42</ee><url>http://dblp.org/rec/conf/ats/ChenWK09</url></info>
+<url>URL#2218000</url>
+</hit>
+<hit score="2" id="2318563">
+<info><authors><author>Haluk Konuk</author></authors><title>Defect Detection Differences between Launch-Off-Shift and Launch-Off-Capture in Sense-Amplifier-Based Flip-Flop Testing.</title><venue>VTS</venue><pages>33-38</pages><year>2009</year><type>Conference and Workshop Papers</type><key>conf/vts/Konuk09</key><doi>10.1109/VTS.2009.39</doi><ee>https://doi.org/10.1109/VTS.2009.39</ee><url>http://dblp.org/rec/conf/vts/Konuk09</url></info>
+<url>URL#2318563</url>
+</hit>
+<hit score="3" id="2363681">
+<info><authors><author>Xinsong Zhang</author><author>Simon S. Ang</author><author>Chandra Carter</author></authors><title>Comparison of NIST and Wavelet Transform Test Point Selection Methods For a Programmable Gain Amplifier.</title><venue>J. Electronic Testing</venue><volume>24</volume><number>5</number><pages>449-460</pages><year>2008</year><type>Journal Articles</type><key>journals/et/ZhangAC08</key><doi>10.1007/S10836-008-5070-6</doi><ee>https://doi.org/10.1007/s10836-008-5070-6</ee><url>http://dblp.org/rec/journals/et/ZhangAC08</url></info>
+<url>URL#2363681</url>
+</hit>
+<hit score="2" id="2403046">
+<info><authors><author>Xiaohua Fan</author><author>Marvin Onabajo</author><author>Félix O. Fernandez-Rodriguez</author><author>José Silva-Martínez</author><author>Edgar Sánchez-Sinencio</author></authors><title>A Current Injection Built-In Test Technique for RF Low-Noise Amplifiers.</title><venue>IEEE Trans. on Circuits and Systems</venue><volume>55-I</volume><number>7</number><pages>1794-1804</pages><year>2008</year><type>Journal Articles</type><key>journals/tcas/FanOFSS08</key><doi>10.1109/TCSI.2008.918207</doi><ee>https://doi.org/10.1109/TCSI.2008.918207</ee><url>http://dblp.org/rec/journals/tcas/FanOFSS08</url></info>
+<url>URL#2403046</url>
+</hit>
+<hit score="2" id="2444531">
+<info><authors><author>Eduardo Aldrete-Vidrio</author><author>M. Amine Salhi</author><author>Josep Altet</author><author>Stéphane Grauby</author><author>Diego Mateo</author><author>H. Michel</author><author>L. Clerjaud</author><author>Jean-Michel Rampnoux</author><author>Antonio Rubio</author><author>Wilfrid Claeys</author><author>Stefan Dilhaire</author></authors><title>Using Temperature as Observable of the Frequency Response of RF CMOS Amplifiers.</title><venue>European Test Symposium</venue><pages>47-52</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/ets/Aldrete-VidrioSAGMMCRRCD08</key><doi>10.1109/ETS.2008.15</doi><ee>https://doi.org/10.1109/ETS.2008.15</ee><url>http://dblp.org/rec/conf/ets/Aldrete-VidrioSAGMMCRRCD08</url></info>
+<url>URL#2444531</url>
+</hit>
+<hit score="2" id="2451644">
+<info><authors><author>Michael R. Souryal</author></authors><title>Non-Coherent Amplify-and-Forward Generalized Likelihood Ratio Test Receiver.</title><venue>GLOBECOM</venue><pages>4506-4511</pages><year>2008</year><type>Conference and Workshop Papers</type><key>conf/globecom/Souryal08</key><doi>10.1109/GLOCOM.2008.ECP.864</doi><ee>https://doi.org/10.1109/GLOCOM.2008.ECP.864</ee><url>http://dblp.org/rec/conf/globecom/Souryal08</url></info>
+<url>URL#2451644</url>
+</hit>
+<hit score="2" id="2558922">
+<info><authors><author>Kazuo Aida</author><author>Takahiro Okada</author><author>Youji Hinako</author></authors><title>Multipath Interference Test Method for Distributed Amplifiers Using Self-Heterodyne Technique.</title><venue>IEICE Transactions</venue><volume>90-C</volume><number>1</number><pages>18-24</pages><year>2007</year><type>Journal Articles</type><key>journals/ieicet/AidaOH07</key><doi>10.1093/IETELE/E90-C.1.18</doi><ee>https://doi.org/10.1093/ietele/e90-c.1.18</ee><url>http://dblp.org/rec/journals/ieicet/AidaOH07</url></info>
+<url>URL#2558922</url>
+</hit>
+<hit score="2" id="2579853">
+<info><authors><author>Eduardo Romero</author><author>Gabriela Peretti</author><author>Carlos A. Marqués</author></authors><title>An operational amplifier model for evaluating test strategies at behavioural level.</title><venue>Microelectronics Journal</venue><volume>38</volume><number>10-11</number><pages>1082-1094</pages><year>2007</year><type>Journal Articles</type><key>journals/mj/RomeroPM07</key><doi>10.1016/J.MEJO.2007.08.006</doi><ee>https://doi.org/10.1016/j.mejo.2007.08.006</ee><url>http://dblp.org/rec/journals/mj/RomeroPM07</url></info>
+<url>URL#2579853</url>
+</hit>
+<hit score="2" id="2595857">
+<info><authors><author>David H. Wisell</author><author>Daniel Rönnow</author><author>Peter Händel</author></authors><title>A Technique to Extend the Bandwidth of an RF Power Amplifier Test Bed.</title><venue>IEEE Trans. Instrumentation and Measurement</venue><volume>56</volume><number>4</number><pages>1488-1494</pages><year>2007</year><type>Journal Articles</type><key>journals/tim/WisellRH07</key><doi>10.1109/TIM.2007.900101</doi><ee>https://doi.org/10.1109/TIM.2007.900101</ee><url>http://dblp.org/rec/journals/tim/WisellRH07</url></info>
+<url>URL#2595857</url>
+</hit>
+<hit score="2" id="2629013">
+<info><authors><author>Alexandre Ney</author><author>Patrick Girard 0001</author><author>Christian Landrault</author><author>Serge Pravossoudovitch</author><author>Arnaud Virazel</author><author>Magali Bastian</author></authors><title>Dynamic Two-Cell Incorrect Read Fault Due to Resistive-Open Defects in the Sense Amplifiers of SRAMs.</title><venue>European Test Symposium</venue><pages>97-104</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/ets/NeyGLPVB07</key><doi>10.1109/ETS.2007.19</doi><ee>https://doi.org/10.1109/ETS.2007.19</ee><url>http://dblp.org/rec/conf/ets/NeyGLPVB07</url></info>
+<url>URL#2629013</url>
+</hit>
+<hit score="2" id="2648834">
+<info><authors><author>Lampros Dermentzoglou</author><author>Anastasios Karagounis</author><author>Aggeliki Arapoyanni</author><author>Yiorgos Tsiatouhas</author></authors><title>An Embedded Test Circuit for RF Single Ended Low Noise Amplifiers.</title><venue>ICECS</venue><pages>1119-1122</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/icecsys/DermentzoglouKAT07</key><doi>10.1109/ICECS.2007.4511191</doi><ee>https://doi.org/10.1109/ICECS.2007.4511191</ee><url>http://dblp.org/rec/conf/icecsys/DermentzoglouKAT07</url></info>
+<url>URL#2648834</url>
+</hit>
+<hit score="2" id="2670529">
+<info><authors><author>Saibal Mukhopadhyay</author><author>Keunwoo Kim</author><author>Keith A. Jenkins</author><author>Ching-Te Chuang</author><author>Kaushik Roy 0001</author></authors><title>Statistical Characterization and On-Chip Measurement Methods for Local Random Variability of a Process Using Sense-Amplifier-Based Test Structure.</title><venue>ISSCC</venue><pages>400-611</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/isscc/MukhopadhyayKJCR07</key><doi>10.1109/ISSCC.2007.373463</doi><ee>https://doi.org/10.1109/ISSCC.2007.373463</ee><url>http://dblp.org/rec/conf/isscc/MukhopadhyayKJCR07</url></info>
+<url>URL#2670529</url>
+</hit>
+<hit score="3" id="2693237">
+<info><authors><author>Pallavi Joshi</author><author>Koushik Sen</author><author>Mark Shlimovich</author></authors><title>Predictive testing - amplifying the effectiveness of software testing.</title><venue>ESEC/SIGSOFT FSE</venue><pages>561-564</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/sigsoft/JoshiSS07</key><doi>10.1145/1287624.1287710</doi><ee>http://doi.acm.org/10.1145/1287624.1287710</ee><url>http://dblp.org/rec/conf/sigsoft/JoshiSS07</url></info>
+<url>URL#2693237</url>
+</hit>
+<hit score="3" id="2693238">
+<info><authors><author>Pallavi Joshi</author><author>Koushik Sen</author><author>Mark Shlimovich</author></authors><title>Predictive testing - amplifying the effectiveness of software testing.</title><venue>ESEC/SIGSOFT FSE</venue><pages>561-564</pages><year>2007</year><type>Conference and Workshop Papers</type><key>conf/sigsoft/JoshiSS07a</key><doi>10.1145/1295014.1295041</doi><ee>http://doi.acm.org/10.1145/1295014.1295041</ee><url>http://dblp.org/rec/conf/sigsoft/JoshiSS07a</url></info>
+<url>URL#2693238</url>
+</hit>
+<hit score="2" id="2769830">
+<info><authors><author>Leopoldo Angrisani</author></authors><title>Experimental Assessment of Modulated S -Parameters Reliability in Modeling and Testing Wideband Radio Frequency Amplifiers.</title><venue>IEEE Trans. Instrumentation and Measurement</venue><volume>55</volume><number>5</number><pages>1474-1479</pages><year>2006</year><type>Journal Articles</type><key>journals/tim/Angrisani06</key><doi>10.1109/TIM.2006.880251</doi><ee>https://doi.org/10.1109/TIM.2006.880251</ee><url>http://dblp.org/rec/journals/tim/Angrisani06</url></info>
+<url>URL#2769830</url>
+</hit>
+<hit score="2" id="2836511">
+<info><authors><author>Murari Kejariwal</author><author>Prasad Ammisetti</author><author>John Melanson</author></authors><title>Built-in self-test mode in a multi-path feedforward compensated operational amplifier.</title><venue>ISCAS</venue><year>2006</year><type>Conference and Workshop Papers</type><key>conf/iscas/KejariwalAM06</key><doi>10.1109/ISCAS.2006.1693941</doi><ee>https://doi.org/10.1109/ISCAS.2006.1693941</ee><url>http://dblp.org/rec/conf/iscas/KejariwalAM06</url></info>
+<url>URL#2836511</url>
+</hit>
+<hit score="3" id="2894602">
+<info><authors><author>Jee-Youl Ryu</author><author>Bruce C. Kim</author></authors><title>Low-Cost Testing of 5 GHz Low Noise Amplifiers Using New RF BIST Circuit.</title><venue>J. Electronic Testing</venue><volume>21</volume><number>6</number><pages>571-581</pages><year>2005</year><type>Journal Articles</type><key>journals/et/RyuK05</key><doi>10.1007/S10836-005-3735-Y</doi><ee>https://doi.org/10.1007/s10836-005-3735-y</ee><url>http://dblp.org/rec/journals/et/RyuK05</url></info>
+<url>URL#2894602</url>
+</hit>
+<hit score="2" id="2913795">
+<info><authors><author>Jee-Youl Ryu</author><author>Bruce C. Kim</author></authors><title>Low-cost test technique using a new RF BIST circuit for 4.5-5.5GHz low noise amplifiers.</title><venue>Microelectronics Journal</venue><volume>36</volume><number>8</number><pages>770-777</pages><year>2005</year><type>Journal Articles</type><key>journals/mj/RyuK05</key><doi>10.1016/J.MEJO.2005.01.002</doi><ee>https://doi.org/10.1016/j.mejo.2005.01.002</ee><url>http://dblp.org/rec/journals/mj/RyuK05</url></info>
+<url>URL#2913795</url>
+</hit>
+<hit score="2" id="2940022">
+<info><authors><author>Saibal Mukhopadhyay</author><author>Arijit Raychowdhury</author><author>Hamid Mahmoodi-Meimand</author><author>Kaushik Roy 0001</author></authors><title>Leakage Current Based Stabilization Scheme for Robust Sense-Amplifier Design for Yield Enhancement in Nano-scale SRAM.</title><venue>Asian Test Symposium</venue><pages>176-181</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/ats/MukhopadhyayRMR05</key><doi>10.1109/ATS.2005.73</doi><ee>https://doi.org/10.1109/ATS.2005.73</ee><url>http://dblp.org/rec/conf/ats/MukhopadhyayRMR05</url></info>
+<url>URL#2940022</url>
+</hit>
+<hit score="3" id="2940028">
+<info><authors><author>Shaolei Quan</author><author>Qiang Qiang</author><author>Chin-Long Wey</author></authors><title>Design of a CMOS Operational Amplifier for Extreme-Voltage Stress Test.</title><venue>Asian Test Symposium</venue><pages>70-75</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/ats/QuanQW05</key><doi>10.1109/ATS.2005.49</doi><ee>https://doi.org/10.1109/ATS.2005.49</ee><url>http://dblp.org/rec/conf/ats/QuanQW05</url></info>
+<url>URL#2940028</url>
+</hit>
+<hit score="2" id="2951240">
+<info><authors><author>Rabeb Kheriji</author><author>V. Danelon</author><author>Jean-Louis Carbonéro</author><author>Salvador Mir</author></authors><title>Optimising Test Sets for a Low Noise Amplifier with a Defect-Oriented Approach.</title><venue>DATE</venue><pages>170-171</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/date/KherijiDCM05</key><doi>10.1109/DATE.2005.233</doi><ee>https://doi.org/10.1109/DATE.2005.233</ee><url>http://dblp.org/rec/conf/date/KherijiDCM05</url></info>
+<url>URL#2951240</url>
+</hit>
+<hit score="2" id="3014887">
+<info><authors><author>Eduardo Romero</author><author>Gabriela Peretti</author><author>Carlos A. Marqués</author></authors><title>An Operational Amplifier Model for Test Planning at Behavioral Level.</title><venue>VLSI Design</venue><pages>812-815</pages><year>2005</year><type>Conference and Workshop Papers</type><key>conf/vlsid/RomeroPM05</key><doi>10.1109/ICVD.2005.51</doi><ee>https://doi.org/10.1109/ICVD.2005.51</ee><url>http://dblp.org/rec/conf/vlsid/RomeroPM05</url></info>
+<url>URL#3014887</url>
+</hit>
+<hit score="2" id="3078772">
+<info><authors><author>Yi-Ming Sheng</author><author>Ming-Jun Hsiao</author><author>Tsin-Yuan Chang</author></authors><title>A Measurement Unit for Input Signal Analysis of SRAM Sense Amplifier.</title><venue>Asian Test Symposium</venue><pages>272-276</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/ats/ShengHC04</key><doi>10.1109/ATS.2004.9</doi><ee>https://doi.org/10.1109/ATS.2004.9</ee><url>http://dblp.org/rec/conf/ats/ShengHC04</url></info>
+<url>URL#3078772</url>
+</hit>
+<hit score="2" id="3087372">
+<info><authors><author>Ganesh Srinivasan</author><author>Soumendu Bhattacharya</author><author>Sasikumar Cherubal</author><author>Abhijit Chatterjee</author></authors><title>Efficient Test Strategy for TDMA Power Amplifiers Using Transient Current Measurements - Uses and Benefit.</title><venue>DATE</venue><pages>280-285</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/date/SrinivasanBCC04</key><doi>10.1109/DATE.2004.1268861</doi><ee>https://doi.org/10.1109/DATE.2004.1268861</ee><url>http://dblp.org/rec/conf/date/SrinivasanBCC04</url></info>
+<url>URL#3087372</url>
+</hit>
+<hit score="2" id="3091778">
+<info><authors><author>Jee-Youl Ryu</author><author>Bruce C. Kim</author><author>Iboun Taimiya Sylla</author></authors><title>A new BIST scheme for 5GHz low noise amplifiers.</title><venue>European Test Symposium</venue><pages>127-132</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/ets/RyuKS04</key><doi>10.1109/ETSYM.2004.1347625</doi><ee>https://doi.org/10.1109/ETSYM.2004.1347625</ee><url>http://dblp.org/rec/conf/ets/RyuKS04</url></info>
+<url>URL#3091778</url>
+</hit>
+<hit score="2" id="3143091">
+<info><authors><author>Jee-Youl Ryu</author><author>Bruce C. Kim</author></authors><title>A new design for built-in self-test of 5GHz low noise amplifiers.</title><venue>SoCC</venue><pages>324-327</pages><year>2004</year><type>Conference and Workshop Papers</type><key>conf/socc/RyuK04</key><doi>10.1109/SOCC.2004.1362450</doi><ee>https://doi.org/10.1109/SOCC.2004.1362450</ee><url>http://dblp.org/rec/conf/socc/RyuK04</url></info>
+<url>URL#3143091</url>
+</hit>
+<hit score="2" id="3180478">
+<info><authors><author>Joan Font</author><author>Rodrigo Picos</author><author>Miquel Roca</author><author>Eugeni Isern</author><author>Eugeni García-Moreno</author></authors><title>A new BICS for CMOS operational amplifiers by using oscillation test techniques.</title><venue>Microelectronics Journal</venue><volume>34</volume><number>10</number><pages>919-926</pages><year>2003</year><type>Journal Articles</type><key>journals/mj/FontPRIG03</key><doi>10.1016/S0026-2692(03)00158-7</doi><ee>https://doi.org/10.1016/S0026-2692(03)00158-7</ee><url>http://dblp.org/rec/journals/mj/FontPRIG03</url></info>
+<url>URL#3180478</url>
+</hit>
+<hit score="4" id="3462267">
+<info><authors><author>José Vicente Calvano</author><author>Vladimir Castro Alves</author><author>Marcelo Lubaszewski</author></authors><title>Testing a PWM circuit using functional fault models and compact test vectors for operational amplifiers.</title><venue>Asian Test Symposium</venue><pages>96-</pages><year>2000</year><type>Conference and Workshop Papers</type><key>conf/ats/CalvanoAL00</key><doi>10.1109/ATS.2000.893609</doi><ee>https://doi.org/10.1109/ATS.2000.893609</ee><url>http://dblp.org/rec/conf/ats/CalvanoAL00</url></info>
+<url>URL#3462267</url>
+</hit>
+<hit score="2" id="3531713">
+<info><authors><author>Mark Johnston</author></authors><title>Application of Domain Testing to Reliability Amplification.</title><venue>Applied Informatics</venue><pages>392-394</pages><year>1999</year><type>Conference and Workshop Papers</type><key>conf/appinf/Johnston99</key><url>http://dblp.org/rec/conf/appinf/Johnston99</url></info>
+<url>URL#3531713</url>
+</hit>
+<hit score="3" id="3595172">
+<info><authors><author>Jaime Velasco-Medina</author><author>Marcelo Lubaszewski</author><author>Michael Nicolaidis</author></authors><title>An Approach to the On-Line Testing of Operational Amplifiers.</title><venue>Asian Test Symposium</venue><pages>290-295</pages><year>1998</year><type>Conference and Workshop Papers</type><key>conf/ats/Velasco-MedinaLN98</key><doi>10.1109/ATS.1998.741627</doi><ee>https://doi.org/10.1109/ATS.1998.741627</ee><url>http://dblp.org/rec/conf/ats/Velasco-MedinaLN98</url></info>
+<url>URL#3595172</url>
+</hit>
+<hit score="2" id="3667783">
+<info><authors><author>R. Dean Adams</author><author>Edmond S. Cooley</author><author>Patrick R. Hansen</author></authors><title>A Self-Test Circuit for Evaluating Memory Sense-Amplifier Signal.</title><venue>ITC</venue><pages>217-225</pages><year>1997</year><type>Conference and Workshop Papers</type><key>conf/itc/AdamsCH97</key><doi>10.1109/TEST.1997.639617</doi><ee>https://doi.org/10.1109/TEST.1997.639617</ee><url>http://dblp.org/rec/conf/itc/AdamsCH97</url></info>
+<url>URL#3667783</url>
+</hit>
+<hit score="2" id="3674655">
+<info><authors><author>Soon-Jyh Chang</author><author>Chung-Len Lee</author><author>Jwu E. Chen</author></authors><title>Functional test pattern generation for CMOS operational amplifier.</title><venue>VTS</venue><pages>267-273</pages><year>1997</year><type>Conference and Workshop Papers</type><key>conf/vts/ChangLC97</key><doi>10.1109/VTEST.1997.600287</doi><ee>https://doi.org/10.1109/VTEST.1997.600287</ee><url>http://dblp.org/rec/conf/vts/ChangLC97</url></info>
+<url>URL#3674655</url>
+</hit>
+<hit score="3" id="3710319">
+<info><authors><author>Karim Arabi</author><author>Bozena Kaminska</author><author>Stephen K. Sunter</author></authors><title>Design for testability of integrated operational amplifiers using oscillation-test strategy.</title><venue>ICCD</venue><pages>40-45</pages><year>1996</year><type>Conference and Workshop Papers</type><key>conf/iccd/ArabiKS96</key><doi>10.1109/ICCD.1996.563529</doi><ee>https://doi.org/10.1109/ICCD.1996.563529</ee><url>http://dblp.org/rec/conf/iccd/ArabiKS96</url></info>
+<url>URL#3710319</url>
+</hit>
+<hit score="2" id="3747075">
+<info><authors><author>Hassan Ihs</author><author>Christian Dufaza</author></authors><title>Tolerance DC bands of CMOS operational amplifier.</title><venue>Asian Test Symposium</venue><pages>140-</pages><year>1995</year><type>Conference and Workshop Papers</type><key>conf/ats/IhsD95</key><doi>10.1109/ATS.1995.485329</doi><ee>https://doi.org/10.1109/ATS.1995.485329</ee><url>http://dblp.org/rec/conf/ats/IhsD95</url></info>
+<url>URL#3747075</url>
+</hit>
+<hit score="2" id="3792099">
+<info><authors><author>A. J. Bishop</author><author>André Ivanov</author></authors><title>On the Testability of CMOS Feedback Amplifiers.</title><venue>DFT</venue><pages>65-73</pages><year>1994</year><type>Conference and Workshop Papers</type><key>conf/dft/BishopI94</key><doi>10.1109/DFTVS.1994.630015</doi><ee>https://doi.org/10.1109/DFTVS.1994.630015</ee><url>http://dblp.org/rec/conf/dft/BishopI94</url></info>
+<url>URL#3792099</url>
+</hit>
+<hit score="2" id="3831118">
+<info><authors><author>Manoj Sachdev</author></authors><title>Catastrophic Defects Oriented Testability Analysis of a Class AB Amplifier.</title><venue>DFT</venue><pages>319-326</pages><year>1993</year><type>Conference and Workshop Papers</type><key>conf/dft/Sachdev93</key><url>http://dblp.org/rec/conf/dft/Sachdev93</url></info>
+<url>URL#3831118</url>
+</hit>
+<hit score="2" id="3839491">
+<info><authors><author>Richard G. Hamlet</author><author>Jeffrey M. Voas</author></authors><title>Faults on Its Sleeve - Amplifying Software Reliability Testing.</title><venue>ISSTA</venue><pages>89-98</pages><year>1993</year><type>Conference and Workshop Papers</type><key>conf/issta/HamletV93</key><doi>10.1145/154183.154246</doi><ee>http://doi.acm.org/10.1145/154183.154246</ee><url>http://dblp.org/rec/conf/issta/HamletV93</url></info>
+<url>URL#3839491</url>
+</hit>
+<hit score="2" id="3839673">
+<info><authors><author>Mani Soma</author></authors><title>Fault Coverage of DC Parametric Tests for Embedded Analog Amplifiers.</title><venue>ITC</venue><pages>566-573</pages><year>1993</year><type>Conference and Workshop Papers</type><key>conf/itc/Soma93</key><doi>10.1109/TEST.1993.470653</doi><ee>https://doi.org/10.1109/TEST.1993.470653</ee><url>http://dblp.org/rec/conf/itc/Soma93</url></info>
+<url>URL#3839673</url>
+</hit>
+<hit score="2" id="4040989">
+<info><authors><author>T. Tada</author><author>T. Kobayashi</author><author>K. Okada</author><author>Y. Kuramitsu</author></authors><title>Testing of Sense Amplifier in Dynamic Memory.</title><venue>ITC</venue><pages>245-251</pages><year>1982</year><type>Conference and Workshop Papers</type><key>conf/itc/TadaKOK82</key><url>http://dblp.org/rec/conf/itc/TadaKOK82</url></info>
+<url>URL#4040989</url>
+</hit>
+<hit score="2" id="4110042">
+<info><authors><author>Howard Hamer</author><author>Jerome D. Kennedy</author></authors><title>Testing of Operational Amplifiers</title><venue>J. ACM</venue><volume>2</volume><number>2</number><pages>92-94</pages><year>1955</year><type>Journal Articles</type><key>journals/jacm/HamerK55</key><doi>10.1145/320795.320798</doi><ee>http://doi.acm.org/10.1145/320795.320798</ee><url>http://dblp.org/rec/journals/jacm/HamerK55</url></info>
+<url>URL#4110042</url>
+</hit>
+<hit score="2" id="4110043">
+<info><authors><author>Howard Hamer</author><author>Jerome D. Kennedy</author></authors><title>Correction - "Testing of Operational Amplifiers"</title><venue>J. ACM</venue><volume>2</volume><number>3</number><pages>207</pages><year>1955</year><type>Journal Articles</type><key>journals/jacm/HamerK55c</key><doi>10.1145/320802.320808</doi><ee>http://doi.acm.org/10.1145/320802.320808</ee><url>http://dblp.org/rec/journals/jacm/HamerK55c</url></info>
+<url>URL#4110043</url>
+</hit>
+</hits>
+</result>
