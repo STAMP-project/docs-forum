@@ -7,7 +7,7 @@ and we hope this introduction will help you to find what you are looking for. :-
 
 #### Documentation and general discussions ####
 The entry point is [docs-forum](http://github.com/STAMP-project/docs-forum) where you can find
-STAMP public deliverables, general documentation and general discussions.  
+[STAMP public deliverables](docs), general documentation and [general discussions](https://github.com/STAMP-project/docs-forum/issues).  
 STAMP-project contains several technical repositories, corresponding to tools you
 can use. We use Issues of each repository to manage the
 development and the technical support on the corresponding tool (defects, improvement,
@@ -19,7 +19,7 @@ technologies relative to the project, feedback, etc.
 #### STAMP tools ####
 The main STAMP tools are presented in the following map:  
 ![STAMP tools in DevOps](docs/images/devops_stamp_tools.png)  
-You can find all on our github:  
+You can find them all on our github:  
 * [DSpot](http://github.com/STAMP-project/dspot)
 * [Descartes](http://github.com/STAMP-project/pitest-descartes)
 * [Camp](http://github.com/STAMP-project/camp)
