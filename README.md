@@ -23,7 +23,7 @@ You can find all on our github:
 * [DSpot](http://github.com/STAMP-project/dspot)
 * [Descartes](http://github.com/STAMP-project/pitest-descartes)
 * [Camp](http://github.com/STAMP-project/camp)
-* [EvoCrash](http://github.com/STAMP-project/EvoCrash)
+* [Botsing](http://github.com/STAMP-project/botsing)
 
 
 #### More ####
