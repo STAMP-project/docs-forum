@@ -16,7 +16,7 @@ And so **docs-forum** is dedicated to more general discussion about the project,
 technologies relative to the project, feedback, etc.
 
 
-# STAMP - Software Testing AMPlification - tools #
+# STAMP - Software Testing AMPlification #
 The main STAMP tools are presented in the following map:  
 ![STAMP tools in DevOps](docs/images/devops_stamp_tools.png)  
 You can find them all on our github:  
