@@ -17,5 +17,5 @@ Final Review, Thursday, February 6
 *    14:45 - 15:15: TellU use case (Lars Thomas Boye, TellU)
 *    15:15 - 15:45: XWiki use case (Vincent Massol, XWiki)
 *    15:45 - 16:00 : break
-*    16:00 - 16:45 : WP6 odp, pdf (Olivier Bouzereau and Cédric Thomas, OW2)
+*    16:00 - 16:45 : WP6 odp (Olivier Bouzereau and Cédric Thomas, OW2)
 *    16:45 - 17:00 : WP7 (Caroline Landry, INRIA)
