@@ -1,5 +1,4 @@
-== Final Review (EC) (Draft) ==
-== Thursday, February 6 ==
+Final Review, Thursday, February 6
 
 *    08:30 - 09:00 : Registration
 *    09:00 - 09:05 : Round table (All)
